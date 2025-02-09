@@ -25,3 +25,5 @@ So back, to the cloud service. The company builds a virtual machine and it can u
 details and they send it out. 
 
 Cloud services can provide many different services, like creating databases, building networks, etc... They replaced a lot of hardware with software (it's been virtualized). Cloud services are built upon cloud services (Lumber vs. construction company). 
+
+Another common service is cloud storage. The monthly payment is to get more storage.
