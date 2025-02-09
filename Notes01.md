@@ -23,3 +23,5 @@ The VMs can even communicate with each other on the same machine (cause they bot
 
 So back, to the cloud service. The company builds a virtual machine and it can used on any physical machine. They usually have them built, so they just tune the 
 details and they send it out. 
+
+Cloud services can provide many different services, like creating databases, building networks, etc... They replaced a lot of hardware with software (it's been virtualized). Cloud services are built upon cloud services (Lumber vs. construction company). 
